@@ -8,5 +8,6 @@ Official legal documents for the FinanceApp mobile application.
 
 - [Privacy Policy](PRIVACY_POLICY)
 - [Terms & Conditions](TERMS_AND_CONDITIONS)
+- [Support](SUPPORT)
 
-For any questions, contact **nikolaslykos94@gmail.com**.
+For any questions, contact **finance.app.support01@gmail.com**.

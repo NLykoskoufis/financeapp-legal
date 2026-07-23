@@ -96,7 +96,7 @@ If you enable the app lock, the App can use **Face ID / Touch ID (iOS)** or biom
 
 ## 9. Contact Support
 
-When you choose to contact support via **Settings → Contact Support**, your default email app opens with a pre-filled message addressed to **nikolaslykos94@gmail.com**.
+When you choose to contact support via **Settings → Contact Support**, your default email app opens with a pre-filled message addressed to **finance.app.support01@gmail.com**.
 
 This message automatically includes the following device information to help us diagnose issues:
 
@@ -156,7 +156,7 @@ Because your financial data is stored on your device and not on our servers, you
 - **Deletion**: Delete individual records, or erase everything via **Settings → Reset Plan**, or by uninstalling the App.
 - **Portability**: Export your data as a backup file at any time.
 
-Depending on where you live (for example, under the EU/UK GDPR or the Swiss FADP), you may have additional rights regarding any personal data a processor holds. For data processed by the services in Section 11, you may exercise those rights directly with each provider, or contact us and we will assist. To make a request or ask a question, email **nikolaslykos94@gmail.com**.
+Depending on where you live (for example, under the EU/UK GDPR or the Swiss FADP), you may have additional rights regarding any personal data a processor holds. For data processed by the services in Section 11, you may exercise those rights directly with each provider, or contact us and we will assist. To make a request or ask a question, email **finance.app.support01@gmail.com**.
 
 ---
 
@@ -176,7 +176,7 @@ We may update this Privacy Policy from time to time. If we make significant chan
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-**Email:** nikolaslykos94@gmail.com
+**Email:** finance.app.support01@gmail.com
 
 ---
 

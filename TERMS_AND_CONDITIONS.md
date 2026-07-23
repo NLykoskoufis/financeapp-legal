@@ -105,7 +105,7 @@ These Terms are governed by and construed in accordance with the laws of Switzer
 
 If you have any questions or concerns about these Terms and Conditions, please contact us at:
 
-**Email:** nikolaslykos94@gmail.com
+**Email:** finance.app.support01@gmail.com
 
 ---
 
